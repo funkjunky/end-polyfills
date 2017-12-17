@@ -1,0 +1,22 @@
+{
+  "name": "end-polyfills",
+  "version": "1.0.0",
+  "description": "Provides 'end' method to objects and arrays. Because myArr[myArr.length - 1] is cumbersome. It's non-iteratable, so it doesn't mess with for in.",
+  "main": "end-polyfills.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funkjunky/end-polyfills.git"
+  },
+  "keywords": [
+    "polyfill"
+  ],
+  "author": "Jason McCarrell <jason.abz+npm@gmail.com> (http://www.jayeh.ca)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/funkjunky/end-polyfills/issues"
+  },
+  "homepage": "https://github.com/funkjunky/end-polyfills#readme"
+}
